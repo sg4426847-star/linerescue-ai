@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "path": "/", "title": "Executive Overview" },
+    { "path": "/simulator", "title": "SafeStock Validator" },
+    { "path": "/recovery", "title": "Recovery Plans" },
+    { "path": "/impact", "title": "Impact Map" },
+    { "path": "/audit", "title": "Evidence & Audit" },
+    { "path": "/data", "title": "Data & Assumptions" },
+    { "path": "/sap", "title": "SAP Architecture" },
+    { "path": "/business", "title": "Business Value" }
+  ]
+}
